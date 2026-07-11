@@ -9,6 +9,10 @@
 
  - 🔭 I’m currently working on machine learnig and mlops.
  - 🌱 I’m currently learning computer vision.
+
+As a part of my interest, i've completed some courses.
+ <img width="1046" height="810" alt="image" src="https://github.com/user-attachments/assets/26c8ef0f-2a09-4751-8ea5-9e8673116d28" />
+  
 <!--
 **rafayel404/rafayel404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
