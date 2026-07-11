@@ -1,5 +1,14 @@
-## Hi there 👋
+# About me:
+## I'm Rafayel. I'm a student of mathematics at Jagannath University,Dhaka. I am a data enthusiat and want to be a data scientist.
 
+
+
+
+![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=rafayel404)
+
+
+ - 🔭 I’m currently working on machine learnig and mlops.
+ - 🌱 I’m currently learning computer vision.
 <!--
 **rafayel404/rafayel404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
